@@ -1,3 +1,5 @@
+##Demo效果：
+![Demo效果.gif](http://upload-images.jianshu.io/upload_images/307963-77440d5ef9003846.gif?imageMogr2/auto-orient/strip)
 ##使用规则：
 ```
  #import "MMWaveView.h"
