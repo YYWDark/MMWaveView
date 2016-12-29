@@ -1,10 +1,6 @@
-##Demo效果：
-![4.gif](http://upload-images.jianshu.io/upload_images/307963-c52cb5e296ce9afc.gif?imageMogr2/auto-orient/strip)
-
 ##使用规则：
 ```
  #import "MMWaveView.h"
-
  MMWaveView *view = [[MMWaveView alloc] initWithFrame:self.view.bounds];
  view.delegate = self;
  [self.view addSubview:view];
@@ -18,6 +14,5 @@
 
 ##事件响应:
 当手指离开屏幕，整个箭头出现在屏幕则会触发事件响应回调
-
 简书：
 http://www.jianshu.com/p/1be3bee0d6ae
