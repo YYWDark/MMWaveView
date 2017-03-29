@@ -1,6 +1,20 @@
 ##Demo效果：
+
 ![Demo效果.gif](http://upload-images.jianshu.io/upload_images/307963-77440d5ef9003846.gif?imageMogr2/auto-orient/strip)
-##使用规则：
+##Installation
+1.using CocoaPods:
+```
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+target 'TargetName' do
+pod 'MMWaveView'
+end
+```
+2.by cloning the project into your repository
+
+
+##How To Use：
 ```
  #import "MMWaveView.h"
  MMWaveView *view = [[MMWaveView alloc] initWithFrame:self.view.bounds];
