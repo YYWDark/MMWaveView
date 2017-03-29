@@ -3,10 +3,11 @@
 ![Demo效果.gif](http://upload-images.jianshu.io/upload_images/307963-77440d5ef9003846.gif?imageMogr2/auto-orient/strip)
 
 ###Installation
+
 1.using CocoaPods:
 ```
 source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '8.0'
+platform :ios, '6.0'
 
 target 'TargetName' do
 pod 'MMWaveView'
